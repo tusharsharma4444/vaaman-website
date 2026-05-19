@@ -1,5 +1,4 @@
-import React from 'react';
-import { Terminal, Shield, Activity, Search, ShieldAlert, GitBranch, Github, Download, ChevronRight } from 'lucide-react';
+import { Terminal, Shield, Activity, Search, ShieldAlert, Github, ChevronRight } from 'lucide-react';
 import './App.css';
 
 function App() {
